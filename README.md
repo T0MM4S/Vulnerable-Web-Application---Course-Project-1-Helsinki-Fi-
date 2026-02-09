@@ -161,4 +161,4 @@ Deactivating Virtual Environment
 bashdeactivate
 
 Security Warning
-⚠️ IMPORTANT: This application is intentionally vulnerable and should NEVER be deployed to a production environment or exposed to the internet. It is designed solely for educational purposes to demonstrate common security vulnerabilities.
+IMPORTANT: This application is intentionally vulnerable and should NEVER be deployed to a production environment or exposed to the internet. It is designed solely for educational purposes to demonstrate common security vulnerabilities.
